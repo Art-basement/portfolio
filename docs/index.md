@@ -1,33 +1,26 @@
 # Jen Wanner – Technical Writing Portfolio
 
-Welcome! I'm a technical writer with a 25+ year career at The Hershey Company, specializing in clean, clear documentation that makes life easier for users, support teams, and business partners.
+Welcome! I’m a technical writer with 25+ years of experience translating complexity into clarity. Most of these samples were created during my time at The Hershey Company to support IT teams, consumer relations, and internal business processes.
 
-This site highlights my work across:
+This site is a snapshot of my work and style — organized by content type and written for real humans.
 
-- ✅ **SOPs** – Step-by-step documentation for consistent execution
-- 💡 **Knowledge Articles** – Quick how-tos and troubleshooting
-- 📣 **Flyers & One-Pagers** – Internal communication tools
-- 🧾 **Checklists** – Task-tracking and training support
-- 🌀 **Process Docs** – Visual and structured guides
-- 🧪 **Other Writing Samples** – Because sometimes docs don’t fit in boxes
+## ✍️ Sample Categories
 
----
-
-## 👀 Browse the Samples
-
-Head to the [Samples](./samples) section or use the navigation bar (if using a theme).
+- [Standard Operating Procedures](./samples/sop-example.md)
+- [Knowledge Articles](./samples/knowledge-article-example.md)
+- [Checklists](./samples/checklist-example.md)
+- [Internal Flyers](./samples/flyer-example.md)
+- [Process Docs](./samples/process-doc-example.md)
 
 ---
 
-## 🧠 About Me
+## 👋 Want the Human Behind the Docs?
 
-I’m detail-obsessed, neurodivergent-friendly, and write with humans in mind — especially the stressed-out, burned-out, or just plain busy ones. Learn more [about me](./about.md).
+Check out the [About Me](./about.md) page to learn more.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/jennifer-a-wanner/)
-- Email: your.email@example.com
 
-Thanks for visiting!
